@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EduApplication {
 
 	public static void main(String[] args) {
-		//주석
+		//주석 feature2
 		SpringApplication.run(EduApplication.class, args);
 	}
 
